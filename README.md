@@ -3,15 +3,13 @@ Social Media for Education Purpose
 
 ### Setup Instructions
 
-1. Create a virtual environment and activate it
-    virtualenv venv -p python3
-    source venv/bin/activate
-
-2. Install Project dependancies
-    pip install -r requirements.txt
-    
-3. Run the applications.
-    python manage.py runserver
+1. Create a virtual environment and activate it<br>
+    <code>virtualenv venv -p python3</code><br>
+    <code>source venv/bin/activate</code>
+2. Install Project dependancies<br>
+    <code>pip install -r requirements.txt</code>  
+3. Run the applications.<br>
+    <code>python manage.py runserver</code>
     
 ### Application key features
 
