@@ -8,6 +8,10 @@ Social Media for Education Purpose
     <code>source venv/bin/activate</code>
 2. Install Project dependancies<br>
     <code>pip install -r requirements.txt</code>  
+3. Create Migrations for the models <br>
+    <code> python manage.py makemigrations</code>
+4. Migrate the models <br>
+    <code> python manage.py migrate</code>
 3. Run the applications.<br>
     <code>python manage.py runserver</code>
     
@@ -16,9 +20,9 @@ Social Media for Education Purpose
 1. Account Managemnet [Complete]
 2. Personal Blog [Complete]
 3. Social Auntentical (Google & Facebook) [Complete]
-3. Twitter like post feed [In Progress]
+3. Twitter like post feed [Complete]
 4. Question Answering system [In Progress]
-5. Profile Interaction (Follow, Message) [In Progress]
+5. Profile Interaction (Follow, Message) [Complete]
 
 ### Technology Stack
 
